@@ -4,7 +4,6 @@
 #include "define.h"
 #include "function.h"
 #include <string>
-#我他妈也不知道啊这是第二次测试i
 
 int main()
 {
