@@ -4,7 +4,7 @@
 #include "define.h"
 #include "function.h"
 #include <string>
-
+哈哈哈哈哈哈
 int main()
 {
 	printf("Test1 begins:\n");
