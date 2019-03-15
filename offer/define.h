@@ -10,7 +10,7 @@ using namespace std;
 int StrToInt(char * string);/*字符转整数程序，不完整，没有考虑边界条件和异常输出等等*/
 int feibona(int c);/*斐波那递归实现*/
 int feibo(int c);/*斐波那循环实现*/
-class CMyString
+class CMyString哈哈
 {
 public:
 	CMyString(const char* pData = nullptr);
