@@ -6,7 +6,6 @@
 #include <string>
 int main()
 {
-	骨灰盒
 	printf("Test1 begins:\n");
 
 
